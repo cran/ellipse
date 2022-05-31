@@ -49,7 +49,7 @@ quadratic.  If the surface is multimodal, the algorithm is likely to
 produce nonsense.
 }
 \references{
-Bates and Watts (1988) Nonlinear Regression Analysis \& its Applications
+Bates and Watts (1988). Nonlinear Regression Analysis and Its Applications. Wiley. \doi{10.1002/9780470316757}.
 }
 \seealso{
 \code{\link{profile}}, \code{\link{glm}}, \code{\link{ellipse.glm}}

@@ -48,7 +48,7 @@ the \code{col} vector will be recycled to colour each of the ellipses; if
 }
 \references{
 Murdoch, D.J. and Chow, E.D. (1996). A graphical display of large
-correlation matrices. The American Statistician 50, 178-180.
+correlation matrices. The American Statistician 50, 178-180. \doi{10.2307/2684435}.
 }
 \seealso{
 \code{\link{ellipse}}

@@ -32,15 +32,14 @@ various S objects, including scalar correlations, covariance matrices
 Duncan Murdoch <murdoch@stats.uwo.ca> and E. D. Chow (porting
 to R by Jesus M. Frias Celayeta <iosu@bureau.ucc.ie>)
 
-Maintainer: Duncan Murdoch <murdoch@stats.uwo.ca>
+Maintainer: Duncan Murdoch <murdoch.duncan@gmail.com>
 }
 \references{
-Bates, D.M. and Watts, D.G. (1988).
-Nonlinear Regression Analysis and its Applications.  Wiley.
+Bates and Watts (1988) Nonlinear Regression Analysis and Its Applications. Wiley. \doi{10.1002/9780470316757}.
 
 Murdoch, D.J. and Chow, E.D. (1996). A graphical
 display of large correlation matrices. The American
-Statistician 50, 178-180. 
+Statistician 50, 178-180. \doi{10.2307/2684435}.
 }
 \keyword{ package }
 \keyword{ dplot }

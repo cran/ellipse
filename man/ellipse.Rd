@@ -67,7 +67,7 @@ The default method uses the
 }
 \references{
 Murdoch, D.J. and Chow, E.D. (1996). A graphical display of large 
-correlation matrices. The American Statistician 50, 178-180. 
+correlation matrices. The American Statistician 50, 178-180. \doi{10.2307/2684435}.
 }
 \examples{
 # Plot an ellipse corresponding to a 95\% probability region for a

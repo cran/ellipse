@@ -78,8 +78,7 @@ will pass the call on to \code{graphics::pairs(x)},
 and the standard method will be called.
 }
 \references{
-Bates and Watts (1988), Nonlinear Regression Analysis \& its
-Applications.
+Bates and Watts (1988). Nonlinear Regression Analysis and Its Applications. Wiley. \doi{10.1002/9780470316757}.
 }
 \seealso{
 \code{\link{profile}}, \code{\link{ellipse.profile}}, \code{\link{ellipse.nls}}

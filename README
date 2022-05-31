@@ -34,3 +34,7 @@ Release History:
 		    
 0.4.1 (Jan 2018)  - At request of CRAN, added pairs() generic function to avoid
        clash with MASS::pairs.profile, and other minor cleanups.
+
+0.4.2 (May 2020)  - Update maintainer email.
+
+0.4.3 (May 2022)  - At request of CRAN, fixed some references.
