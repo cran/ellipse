@@ -1,6 +1,6 @@
-2f607c9da960b457edcb0d032e1c767c *DESCRIPTION
-f1c594cb593f80cd82e09f1e562de22b *NAMESPACE
-4f6e7720b8885077128ec8b456003426 *NEWS.md
+2393b07c5b3d4f084aee653e22bd61e1 *DESCRIPTION
+c36867f0ca9e93bbe4cb76e43d071e5b *NAMESPACE
+410b363885c52f4b1ab38185511cabd1 *NEWS.md
 73fea51373da9bbc4ff85c413745b526 *R/ellipse.R
 4be8275a614fcb4065c37b8762941247 *R/ellipse.arima0.R
 fa50df8672315eda7e472a308039914d *R/ellipse.default.R
@@ -10,10 +10,10 @@ f3a81546119e55c3f45191add9fea049 *R/ellipse.lm.R
 1f6cc6a9602728096e1a5c17db75a3d1 *R/ellipse.profile.R
 179ff82c9db9ac24d7c28250d7dbd4ac *R/ellipse.profile.glm.R
 e9db7c17f6821149220b411bfd6441a6 *R/ellipse.profile.nls.R
-51a4f27c99ed5d47d0ce1445435b49b9 *R/pairs.profile.R
+7e7874f0597fde230d8112ce1262e282 *R/pairs.profile.R
 f410502cb27f5f2cfaee61bcf133abe3 *R/plotcorr.R
 ba3be347e3ed8272ffa6fd5e39a4de87 *README.md
-ea124a494ad7922985532ad3b308e4d5 *build/partial.rdb
+7080893e02c49cd296d4424b9be55069 *build/partial.rdb
 9d18b036d7fe5945f3878be9871c0c05 *man/ellipse-package.Rd
 9409a7bef609ccc13a41970539583435 *man/ellipse.Rd
 2a7bc110f3041d43ddd9ae601bf81912 *man/ellipse.arima0.Rd
@@ -25,6 +25,5 @@ a44b6aebadb5c6335f6e711b23152475 *man/ellipse.nls.Rd
 9648870599fe1802b3c344d74825dffa *man/ellipse.profile.nls.Rd
 a748689269d7422ec285351a622f049b *man/figures/README-pairs.profile-1.png
 0349c605fbc4848a60234ab396386459 *man/figures/README-plotcorr-1.png
-41184b50c2f136f5ba50f6884775a19b *man/pairs.Rd
-da5f6ecd2a8b9f5a6c5e4168b1906c37 *man/pairs.profile.Rd
+569f000c9673298db43faa2a95578db9 *man/pairs.profile.Rd
 1e4a078912e531deddde4170a259cc48 *man/plotcorr.Rd
